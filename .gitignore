@@ -1,0 +1,10 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+_stest.swift
+_stesty.yaml
+_scopes.yaml
+/.swiftpm
+.swiftpm
+/artifacts
